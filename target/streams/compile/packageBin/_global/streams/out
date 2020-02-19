@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/mikaelh/code/scala-akka-playground/target/scala-2.13/scala-akka-playground_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mikaelh/code/scala-akka-playground/target/scala-2.13/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akkapackt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mikaelh/code/scala-akka-playground/target/scala-2.13/classes/com/akkapackt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akkapackt/ch1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mikaelh/code/scala-akka-playground/target/scala-2.13/classes/com/akkapackt/ch1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akkapackt/ch1/utils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mikaelh/code/scala-akka-playground/target/scala-2.13/classes/com/akkapackt/ch1/utils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akkapackt/ch1/utils/AkkaPingPong$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mikaelh/code/scala-akka-playground/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaPingPong$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akkapackt/ch1/utils/PongActor$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mikaelh/code/scala-akka-playground/target/scala-2.13/classes/com/akkapackt/ch1/utils/PongActor$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akkapackt/ch1/utils/PingActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mikaelh/code/scala-akka-playground/target/scala-2.13/classes/com/akkapackt/ch1/utils/PingActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akkapackt/ch1/utils/AkkaPingPong$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mikaelh/code/scala-akka-playground/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaPingPong$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akkapackt/ch1/utils/PingActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mikaelh/code/scala-akka-playground/target/scala-2.13/classes/com/akkapackt/ch1/utils/PingActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akkapackt/ch1/utils/PongActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mikaelh/code/scala-akka-playground/target/scala-2.13/classes/com/akkapackt/ch1/utils/PongActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/akkapackt/ch1/utils/AkkaPingPong.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mikaelh/code/scala-akka-playground/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaPingPong.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

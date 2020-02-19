@@ -1,0 +1,11 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/mikaelh/code/scala-akka-playground/src/main/scala/com/akkapackt/ch1/utils/ReaderBehavior.scala:1:1: [0m
+[0m[[0m[33mwarn[0m] [0m[0mFound names but no class, trait or object is defined in the compilation unit.[0m
+[0m[[0m[33mwarn[0m] [0m[0mThe incremental compiler cannot record the dependency information in such case.[0m
+[0m[[0m[33mwarn[0m] [0m[0mSome errors like unused import referring to a non-existent class might not be reported.[0m
+[0m[[0m[33mwarn[0m] [0m[0m    [0m
+[0m[[0m[33mwarn[0m] [0m[0mpackage com.akkapackt.ch1.utils[0m
+[0m[[0m[33mwarn[0m] [0m[0m^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/mikaelh/code/scala-akka-playground/src/main/scala/com/akkapackt/ch1/utils/AkkaPingPong.scala:24:53: value executionContext in class PingActor does nothing other than call itself recursively[0m
+[0m[[0m[33mwarn[0m] [0m[0m  implicit val executionContext: ExecutionContext = executionContext[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m

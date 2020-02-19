@@ -1,0 +1,3 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/mikaelh/code/scala-akka-playground/"), "scala-akka-playground")...
+[debug] Done updating ProjectRef(uri("file:/home/mikaelh/code/scala-akka-playground/"), "scala-akka-playground")
