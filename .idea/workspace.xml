@@ -5,16 +5,22 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules/scala-akka-playground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scala-akka-playground.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/akkapackt/ch1/utils/ReaderBehavior.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/akkapackt/ch1/utils/ReaderBehavior.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/akkapackt/ch1/utils/WriterActor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/akkapackt/ch1/utils/WriterActor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaWriterSystem$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaWriterSystem$$anon$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaWriterSystem$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaWriterSystem$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaWriterSystem$Person$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaWriterSystem$Person$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaWriterSystem$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaWriterSystem$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaWriterSystem$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaWriterSystem$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaWriterSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/AkkaWriterSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/WriterActor$$anonfun$receive$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/WriterActor$$anonfun$receive$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/WriterActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/com/akkapackt/ch1/utils/WriterActor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/ssExtractDependencies/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/ssExtractDependencies/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
@@ -37,6 +43,13 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -56,7 +69,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-address-app" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -138,7 +151,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/build.sbt" value="1874248518" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3008847962" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
       </map>
     </option>
@@ -153,7 +166,9 @@
       <workItem from="1581589260188" duration="888000" />
       <workItem from="1581667666134" duration="36000" />
       <workItem from="1582015427567" duration="12918000" />
-      <workItem from="1582100012175" duration="18667000" />
+      <workItem from="1582100012175" duration="19268000" />
+      <workItem from="1582184007220" duration="697000" />
+      <workItem from="1582184729990" duration="10091000" />
     </task>
     <servers />
   </component>
@@ -165,6 +180,10 @@
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state x="908" y="394" width="800" height="677" key="#Project_Structure/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582015467548" />
+    <state x="1046" y="490" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582189084202">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1046" y="490" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582189084202" />
     <state x="771" y="390" width="1084" height="916" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582110080520">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
@@ -173,10 +192,10 @@
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state x="1000" y="537" width="616" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582022946978" />
-    <state x="1121" y="433" width="374" height="599" key="#com.intellij.ide.util.MemberChooser" timestamp="1582112496375">
+    <state x="1121" y="433" width="374" height="599" key="#com.intellij.ide.util.MemberChooser" timestamp="1582184564020">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
-    <state x="1121" y="433" width="374" height="599" key="#com.intellij.ide.util.MemberChooser/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582112496375" />
+    <state x="1121" y="433" width="374" height="599" key="#com.intellij.ide.util.MemberChooser/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582184564020" />
     <state x="1045" y="634" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582110018374">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
@@ -185,54 +204,55 @@
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state x="1027" y="593" width="573" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582022999797" />
-    <state x="1096" y="490" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581667690801">
-      <screen x="67" y="27" width="4413" height="1413" />
+    <state x="648" y="490" width="374" height="484" key="FileChooserDialogImpl" timestamp="1582194264193">
+      <screen x="67" y="27" width="2493" height="1413" />
     </state>
+    <state x="648" y="490" width="374" height="484" key="FileChooserDialogImpl/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582194264193" />
     <state x="1096" y="490" width="424" height="484" key="FileChooserDialogImpl/67.27.4413.1413@67.27.4413.1413" timestamp="1581667690801" />
-    <state width="2447" height="397" key="GridCell.Tab.0.bottom" timestamp="1582122174870">
+    <state width="2447" height="397" key="GridCell.Tab.0.bottom" timestamp="1582195827808">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state width="2447" height="488" key="GridCell.Tab.0.bottom/67.27.2493.1317/2560.0.1920.1200@67.27.2493.1317" timestamp="1582038748928" />
-    <state width="2447" height="397" key="GridCell.Tab.0.bottom/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582122174870" />
-    <state width="2447" height="397" key="GridCell.Tab.0.center" timestamp="1582122174870">
+    <state width="2447" height="397" key="GridCell.Tab.0.bottom/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582195827808" />
+    <state width="2447" height="397" key="GridCell.Tab.0.center" timestamp="1582195827808">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state width="2447" height="488" key="GridCell.Tab.0.center/67.27.2493.1317/2560.0.1920.1200@67.27.2493.1317" timestamp="1582038748928" />
-    <state width="2447" height="397" key="GridCell.Tab.0.center/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582122174870" />
-    <state width="2447" height="397" key="GridCell.Tab.0.left" timestamp="1582122174870">
+    <state width="2447" height="397" key="GridCell.Tab.0.center/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582195827808" />
+    <state width="2447" height="397" key="GridCell.Tab.0.left" timestamp="1582195827807">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state width="2447" height="488" key="GridCell.Tab.0.left/67.27.2493.1317/2560.0.1920.1200@67.27.2493.1317" timestamp="1582038748928" />
-    <state width="2447" height="397" key="GridCell.Tab.0.left/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582122174870" />
-    <state width="2447" height="397" key="GridCell.Tab.0.right" timestamp="1582122174870">
+    <state width="2447" height="397" key="GridCell.Tab.0.left/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582195827807" />
+    <state width="2447" height="397" key="GridCell.Tab.0.right" timestamp="1582195827808">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state width="2447" height="488" key="GridCell.Tab.0.right/67.27.2493.1317/2560.0.1920.1200@67.27.2493.1317" timestamp="1582038748928" />
-    <state width="2447" height="397" key="GridCell.Tab.0.right/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582122174870" />
-    <state width="2447" height="488" key="GridCell.Tab.1.bottom" timestamp="1582105258307">
+    <state width="2447" height="397" key="GridCell.Tab.0.right/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582195827808" />
+    <state width="2447" height="488" key="GridCell.Tab.1.bottom" timestamp="1582128124740">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state width="2447" height="488" key="GridCell.Tab.1.bottom/67.27.2493.1317/2560.0.1920.1200@67.27.2493.1317" timestamp="1582038748928" />
-    <state width="2447" height="488" key="GridCell.Tab.1.bottom/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582105258307" />
-    <state width="2447" height="488" key="GridCell.Tab.1.center" timestamp="1582105258307">
+    <state width="2447" height="488" key="GridCell.Tab.1.bottom/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582128124740" />
+    <state width="2447" height="488" key="GridCell.Tab.1.center" timestamp="1582128124740">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state width="2447" height="488" key="GridCell.Tab.1.center/67.27.2493.1317/2560.0.1920.1200@67.27.2493.1317" timestamp="1582038748928" />
-    <state width="2447" height="488" key="GridCell.Tab.1.center/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582105258307" />
-    <state width="2447" height="488" key="GridCell.Tab.1.left" timestamp="1582105258307">
+    <state width="2447" height="488" key="GridCell.Tab.1.center/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582128124740" />
+    <state width="2447" height="488" key="GridCell.Tab.1.left" timestamp="1582128124740">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state width="2447" height="488" key="GridCell.Tab.1.left/67.27.2493.1317/2560.0.1920.1200@67.27.2493.1317" timestamp="1582038748928" />
-    <state width="2447" height="488" key="GridCell.Tab.1.left/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582105258307" />
-    <state width="2447" height="488" key="GridCell.Tab.1.right" timestamp="1582105258307">
+    <state width="2447" height="488" key="GridCell.Tab.1.left/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582128124740" />
+    <state width="2447" height="488" key="GridCell.Tab.1.right" timestamp="1582128124740">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state width="2447" height="488" key="GridCell.Tab.1.right/67.27.2493.1317/2560.0.1920.1200@67.27.2493.1317" timestamp="1582038748928" />
-    <state width="2447" height="488" key="GridCell.Tab.1.right/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582105258307" />
-    <state x="577" y="560" key="com.intellij.ide.util.TipDialog" timestamp="1582100011017">
+    <state width="2447" height="488" key="GridCell.Tab.1.right/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582128124740" />
+    <state x="577" y="560" key="com.intellij.ide.util.TipDialog" timestamp="1582184732775">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
-    <state x="577" y="560" key="com.intellij.ide.util.TipDialog/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582100011017" />
+    <state x="577" y="560" key="com.intellij.ide.util.TipDialog/67.27.2493.1413/2560.0.1920.1200@67.27.2493.1413" timestamp="1582184732775" />
     <state x="969" y="560" key="com.intellij.ide.util.TipDialog/67.27.4413.1413@67.27.4413.1413" timestamp="1581667665564" />
     <state x="961" y="443" width="704" height="578" key="find.popup" timestamp="1582108635059">
       <screen x="67" y="27" width="2493" height="1413" />
