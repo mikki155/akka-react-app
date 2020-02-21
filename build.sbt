@@ -4,6 +4,12 @@ version := "0.1"
 
 scalaVersion := "2.13.1"
 
-libraryDependencies += "com.typesafe.akka" % "akka-actor_2.13" % "2.6.3"
-libraryDependencies += "com.typesafe.akka" %% "akka-http-spray-json" % "10.1.11"
-libraryDependencies += "com.typesafe.akka" %% "akka-stream" % "2.6.3"
+lazy val akkaVersion = "2.6.3"
+lazy val akkaHttpVersion = "10.1.11"
+
+libraryDependencies += "com.typesafe.akka" % "akka-actor_2.13" % akkaVersion
+libraryDependencies += "com.typesafe.akka" %% "akka-http" % akkaHttpVersion
+libraryDependencies += "com.typesafe.akka" %% "akka-http-spray-json" % akkaHttpVersion
+libraryDependencies += "com.typesafe.akka" %% "akka-stream" % akkaVersion
+libraryDependencies += "com.typesafe.akka" %% "akka-actor-typed" % akkaVersion
+
